@@ -1,0 +1,15 @@
+{
+  "name": "uiautomation",
+  "version": "1.0.0",
+  "description": "Ui \b\b\b  \b\b\b \bUi \b\b\b  \bUI Automation in \b\b\b  \b\bof goor\bdreads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.3",
+    "cypress-xpath": "^2.0.1"
+  }
+}
